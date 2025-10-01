@@ -1,0 +1,60 @@
+{
+    "tripName": "Thai Islands Tour",
+    "travelerName": "Elizabeth Taylor",
+    "contact": {"email": "eli@taylor.com",
+    "phone": "314-444-4444"
+    },
+    "destinations": [
+    {
+        "location": "Koh Samui",
+        "arrivalDate": "2026-01-01",
+        "departureDate": "2026-01-04",
+        "activities": [
+            {
+            "activity1": "snorkeling at Koh Nang Yuan and Koh Tao",
+            "date": "2026-01-02",
+            "time": "10 AM - 2 PM"
+            },
+            {
+            "activity2": "beach yoga",
+            "date": "2026-01-03",
+            "time": "7 - 8 AM"
+            },
+            {
+            "activity3": "Anthong National Marine Park",
+            "date": "2026-01-03",
+            "time": "10 AM - 2 PM"    
+            }
+        ]
+        
+    },
+    {
+        "location": "Phuket",
+        "arrivalDate": "2026-01-04",
+        "departureDate": "2026-01-08",
+        "activities": [
+          {
+            "activity1": "James Bond Island tour",
+            "date": "2026-01-05",
+            "time": "8 AM - 3 PM"
+            },
+            {
+            "activity2": "Visit Sea Turtle Sanctuary",
+            "date": "2026-01-06",
+            "time": "11 AM - 2 PM"
+            },
+            {
+            "activity3": "Visit Phuket Old Town",
+            "date": "2026-01-06",
+            "time": "5 - 8 PM"    
+            }, 
+            {
+            "activity4": "Walking Street",
+            "date": "2026-01-07",
+            "time": "6 - 9 PM"
+            }
+             
+        ]
+    }
+]
+}
